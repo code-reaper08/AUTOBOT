@@ -8,7 +8,7 @@ COMMANDS:
       
       2. time                ----------------------------- Tells the current Time.
       
-      3. search              ----------------------------- Search a term ,user utter in the deafault browser.
+      3. search              ----------------------------- Search a term ,user utter in the default browser.
       
       4. find location       ----------------------------- Search the location in Google maps ,which user tell to locate.
       
