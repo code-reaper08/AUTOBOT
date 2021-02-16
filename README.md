@@ -1,4 +1,7 @@
-# AUTOBOT
+# AUTOBOT 
+
+[![GitHub license](https://img.shields.io/github/license/code-reaper08/AUTOBOT?style=for-the-badge)](https://github.com/code-reaper08/AUTOBOT/blob/main/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/code-reaper08/AUTOBOT?style=for-the-badge)](https://github.com/code-reaper08/AUTOBOT/stargazers)
+
 AUTOBOT is a simple , personal assistant program fully built with Python. It gives a set of features to try for the user and interact with them in a effective manner . It also responds to the commands given by the user and completes the task in a quick manner.  For now the AUTOBOT features a limited set of commands to use and test. The commands are listed in the "Readme.txt" file .  Other important things to note are also effectively described in the "Readme.txt" file.
 
 
@@ -26,10 +29,10 @@ COMMANDS:
       
       11.exit or bye         ----------------------------- Closes the AUTOBOT.
    
-   ----------------------------------------------=======================================================================-------------------------------------------------------
+
      
      
-#This program runs on Windows only.
+## This program runs on Windows only.
      
      
-THIS IS A MINI PROJECT CREATED BY ME ( VISHWA.R ) FOR PURELY EDUCATIONAL PURPOSE AND TO SHOW MY UNDERSTANDING OF PYTHON PROGRAMMING LANGUAGE AND IT'S DEPENDENCY PACKAGES.
+THIS IS A MINI PROJECT CREATED BY ME ( **VISHWA.R** ) FOR PURELY EDUCATIONAL PURPOSE AND TO SHOW MY UNDERSTANDING OF PYTHON PROGRAMMING LANGUAGE AND IT'S DEPENDENCY PACKAGES.
